@@ -1,5 +1,5 @@
 name:
-   first: Urvish
-   last: Desai
-email: urvish@nyu.edu
-leaderboard: Baseline
+   first: Nellie
+   last: Spektor
+email: ns104@nyu.edu
+leaderboard: ns104
